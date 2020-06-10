@@ -1,0 +1,132 @@
+<resources>
+    <string name="app_name_">Chat21</string>
+    <!--<string name="action_settings">إعدادات</string>-->
+
+    <string name="fragment_tab_home_direct_message_button_label">حدد جهة اتصال</string>
+    <string name="fragment_user_profile_id_label">المعرف</string>
+    <string name="fragment_user_profile_logout_label">تسجيل خروج</string>
+    <!--<string name="fragment_tab_home_new_chat_activity_button_label">ابدأ بنشاط</string>-->
+	
+	  <!--dates-->
+    <string name="today">اليوم</string>
+    <string name="yesterday">الامس</string>
+
+    <string name="string_contact_list_activity_title">جهات الاتصال</string>
+    <string name="string_conversation_list_activity_title">المحادثات</string>
+    <string name="string_create_group_activity_title">مجموعة جديدة</string>
+    <string name="string_add_members_activity_title">إضافة اعضاء</string>
+
+    <string name="label_no_conversation_error_title">لا يوجد محادثات!</string>
+    <string name="label_no_conversation_error_subtitle">اضغط على الزر أدناه لبدء محادثة جديدة!</string>
+
+    <string name="action_create_group">إنشاء مجموعة</string>
+
+    <!--create_group_activity-->
+    <string name="activity_new_group_icon_label">إضافة صورة</string>
+    <string name="activity_new_group_group_name_hint_label">حدد اسم المجموعة</string>
+    <string name="menu_activity_new_group_action_next">التالى</string>
+
+    <!--add_members_activity-->
+    <string name="add_members_activity_searchview_query_hint">البحث عن جهة اتصال</string>
+    <string name="add_members_activity_contact_already_added_label">أضيف بالفعل إلى المجموعة</string>
+    <string name="add_members_activity_contact_not_added_label">جهة الاتصال غير موجودة في القائمة</string>
+    <string name="activity_add_member_to_chat_group_selected_contacts_title">جهات الاتصال المحددة</string>
+    <string name="add_members_activity_contacts_title">قائمة جهات الإتصال</string>
+    <string name="menu_add_members_action_create">إضافة </string>
+    <string name="menu_add_members_action_add_member">@string/activity_group_admin_panel_add_member_title</string>
+    <string name="menu_add_members_action_next">التالى</string>
+
+    <!--activity contact list -->
+    <string name="label_no_contacts_error_title">لم يتم العثور على جهة اتصال</string>
+    <string name="label_no_contacts_error_subtitle">قم بتغيير معلمات البحث</string>
+    <string name="activity_contact_list_error_cannot_create_group_offline_label">لا يمكنك إنشاء المجموعة إذا كنت غير متصل بالإنترنت</string>
+
+    <!--activity_group_admin_panel-->
+    <string name="activity_group_admin_panel_members_label">اعضاء</string>
+    <string name="activity_group_admin_panel_group_admin_label">مدير المجموعة</string>
+    <string name="activity_group_admin_panel_created_by_label">انشأ من قبل </string>
+    <string name="activity_group_admin_panel_created_on_label">تم إنشاؤها على </string>
+    <string name="activity_group_admin_panel_group_id_label">المعرف </string>
+    <string name="activity_group_admin_panel_not_available_members_label">معلومات الأعضاء غير متوفرة الآن</string>
+    <string name="activity_group_admin_panel_add_member_title">إضافة عضو</string>
+    <string name="menu_activity_group_admin_panel_activity_cannot_add_member_offline">لا يمكن إضافة عضو إذا كنت غير متصل بالإنترنت</string>
+
+    <!--bottom_sheet_group_admin_panel_member-->
+    <string name="bottom_sheet_group_admin_panel_member_remove_member_btn_label">حذف عضو</string>
+    <string name="bottom_sheet_group_admin_panel_member_leave_group_btn_label">غادر المجموعة</string>
+    <string name="bottom_sheet_group_admin_panel_member_see_profile_btn_label">الملف الشخصي</string>
+    <string name="bottom_sheet_group_admin_panel_member_send_message_btn_label">أرسل رسالة</string>
+    <string name="bottom_sheet_group_admin_panel_member_btn_cancel_label">إلغاء</string>
+
+    <!--activity_conversation_list-->
+    <string name="activity_conversation_list_adapter_you_label">انت</string>
+
+    <!--fragment_conversation_list-->
+    <string name="fragment_conversation_list_my_group_label">مجموعات</string>
+
+    <!--bottom_sheet_group_admin_panel_member-->
+    <string name="bottom_sheet_group_admin_panel_member_remove_member_alert_title">حذف عضو</string>
+    <string name="bottom_sheet_group_admin_panel_member_remove_member_alert_message">هل تريد حقا حذف<b>%1$s</b> من المجموعة?</string>
+    <string name="bottom_sheet_group_admin_panel_member_leave_group_alert_message">هل تريد حقا مغادرة المجموعة؟</string>
+    <string name="bottom_sheet_group_admin_panel_member_remove_member_alert_positive_click">حذف</string>
+    <string name="bottom_sheet_group_admin_panel_member_leave_group_alert_positive_click">مغادرة</string>
+    <string name="bottom_sheet_group_admin_panel_member_remove_member_alert_negative_click">إلغاء</string>
+
+    <!--activity_message_list-->
+    <string name="activity_message_list_group_info_you_label">انت</string>
+    <string name="activity_message_list_convers_with_presence_online">متصل بالانترنت</string>
+    <string name="activity_message_list_convers_with_presence_last_seen">اخر ظهور </string>
+    <string name="activity_message_list_convers_with_presence_offline">غير متصل بالانترنت</string>
+    <string name="activity_message_list_progress_dialog_upload">جاري التحميل..</string>
+    <string name="activity_message_list_progress_dialog_upload_failed">لا يمكن إتمام التحميل</string>
+    <string name="activity_message_list_no_message_error_title_label">لقد تم إزالتك من المجموعة</string>
+    <string name="activity_message_list_no_message_error_subtitle_label">اتصل بالمسؤول لمزيد من التفاصيل</string>
+    <string name="activity_message_list_confirm_dialog_upload_title_label">إرسال صورة</string>
+    <string name="activity_message_list_confirm_dialog_upload_message_label">هل تريد إرسال هذه الصورة ؟</string>
+    <string name="activity_message_list_type_image_label">صورة</string>
+    <string name="activity_message_list_type_file_label">ملف</string>
+
+    <!--bottom_sheet_attach-->
+    <string name="bottom_sheet_attach_images_label">صور</string>
+    <string name="bottom_sheet_attach_documents_label">ملفات</string>
+
+    <!--activity_public_profile-->
+    <string name="activity_public_profile_presence_online">متصل بالانترنت</string>
+    <string name="activity_public_profile_presence_not_available">غير متصل بالانترنت</string>
+    <string name="activity_public_profile_presence_offline">غير متصل بالانترنت</string>
+
+    <!--activity_group_list-->
+    <string name="activity_group_list_activity_title">مجموعاتي</string>
+    <string name="activity_my_groups_list_error_title">لا توجد مجموعات</string>
+    <string name="activity_my_groups_list_error_subtitle">أنت لست عضوا في أي مجموعة</string>
+
+    <!--bottom_sheet_conversation_list-->
+    <string name="bottom_sheet_conversation_list_confirm_delete_conversation_alert_title">حذف المحادثة</string>
+    <string name="bottom_sheet_conversation_list_confirm_delete_conversation_alert_message">هل تريد حقًا حذف المحادثة ؟\n لا يمكن إلغاء العملية.</string>
+    <string name="bottom_sheet_conversation_list_confirm_delete_conversation_button_label">حذف المحادثة</string>
+    <string name="bottom_sheet_conversation_list_confirm_delete_conversation_alert_positive_button_label">حذف المحادثة</string>
+    <string name="bottom_sheet_conversation_list_confirm_delete_conversation_alert_positive_button_negative">إلغاء</string>
+
+    <!--activity_chat_login-->
+    <string name="activity_chat_login_no_account_label">لا يوجد حساب?</string>
+    <string name="activity_chat_login_signup_label">سجل</string>
+
+    <!--activity_choose_chat_group_activity-->
+    <string name="activity_choose_chat_group_activity_activity_title">مجموعات</string>
+
+    <!--menu_fragment_conversations_list-->
+    <string name="menu_fragment_conversations_list_action_archived">مؤرشف</string>
+
+    <!--activity_archived_conversation_list_title-->
+    <string name="activity_archived_conversation_list_title">مؤرشف</string>
+
+    <!--row_archived_conversations-->
+    <string name="row_archived_conversations_textview_reopen">أعد فتح</string>
+    <string name="row_archived_conversations_closed_label">مغلق</string>
+    <string name="close">غلق</string>
+    <string name="unread">غير مقروء</string>
+
+    <string name="tab_chat_title" translatable="false">المحادثات</string>
+    <string name="photo">صورة</string>
+
+</resources>

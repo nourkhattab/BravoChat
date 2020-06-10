@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--firebase database reference (optional)-->
+    <string name="chat_firebase_url" translatable="false">https://chat21-7bef1.firebaseio.com</string>
+
+    <string name="chat_firebase_cloud_functions_url" translatable="false">https://us-central1-chat21-7bef1.cloudfunctions.net</string>
+
+
+    <!--firebase storage reference (optional)-->
+    <string name="chat_firebase_storage_bucket" translatable="false">chat21-7bef1.appspot.com</string>
+
+    <!--unique identifier of the app in which it is messaging-->
+    <string name="chat_firebase_appId" translatable="false">tilechat</string>
+    <!--<string name="chat_firebase_appId" translatable="false">got_chat</string>-->
+	
+	<string name="custom_auth_verify_token_url" translatable="false">https://chat21-custom-firebase-auth.appspot.com/verifyToken?username=</string>
+		
+</resources>

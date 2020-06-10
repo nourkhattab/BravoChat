@@ -1,0 +1,223 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+	package
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:4:5-34
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:1-139:12
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:7:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:9:22-77
+uses-permission#android.permission.ACCESS_NOTIFICATION_POLICY
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:10:5-85
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:10:22-82
+application
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:12:5-137:19
+activity#org.chat21.android.ui.login.activities.ChatSplashActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:14:9-15:87
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:15:13-85
+activity#android.demo.TabActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:20:13-76
+	android:theme
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:18:13-52
+intent-filter#action:name:NEW_MESSAGE+category:name:android.intent.category.DEFAULT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:21:13-24:29
+action#NEW_MESSAGE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:22:17-54
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:22:25-51
+category#android.intent.category.DEFAULT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:23:17-76
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:23:27-73
+activity#org.chat21.android.ui.login.activities.ChatLoginActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:27:9-102
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:27:19-90
+activity#org.chat21.android.ui.login.activities.ChatSignUpActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:29:9-103
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:29:19-91
+activity#org.chat21.android.ui.contacts.activites.ContactListActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:32:9-44:20
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:34:13-71
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:33:13-88
+meta-data#android.app.searchable
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:36:13-38:63
+	android:resource
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:38:17-60
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:37:17-54
+intent-filter#action:name:android.intent.action.SEARCH
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:40:13-42:29
+action#android.intent.action.SEARCH
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:41:17-71
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:41:25-68
+activity#org.chat21.android.ui.conversations.activities.ConversationListActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:47:9-49:79
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:49:13-76
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:48:13-99
+activity#org.chat21.android.ui.archived_conversations.activities.ArchivedConversationListActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:52:9-54:81
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:54:13-78
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:53:13-116
+activity#org.chat21.android.ui.messages.activities.MessageListActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:57:9-65:20
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:57:19-95
+intent-filter#action:name:ACTION_DEFAULT_CHAT_INTENT+category:name:android.intent.category.DEFAULT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:61:13-64:29
+action#ACTION_DEFAULT_CHAT_INTENT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:62:17-69
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:62:25-66
+activity#org.chat21.android.ui.messages.activities.ImageDetailsActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:67:9-99
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:67:19-96
+activity#org.chat21.android.ui.chat_groups.activities.NewGroupActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:69:9-71:83
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:71:13-71
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:70:13-89
+activity#org.chat21.android.ui.chat_groups.activities.AddMemberToChatGroupActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:73:9-75:82
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:75:13-70
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:74:13-101
+activity#org.chat21.android.ui.chat_groups.activities.GroupAdminPanelActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:78:9-114
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:78:19-102
+activity#org.chat21.android.ui.users.activities.PublicProfileActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:81:9-97
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:81:19-94
+activity#org.chat21.android.ui.chat_groups.activities.ChatGroupsListActivity
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:83:9-85:83
+	android:label
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:85:13-71
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:84:13-95
+service#org.chat21.android.notifications.ChatFirebaseMessagingService
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:89:9-93:19
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:89:18-94
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:90:9-92:25
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:91:13-74
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:91:21-71
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:98:9-99:85
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:99:13-83
+meta-data#com.google.firebase.messaging.default_notification_channel_id
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:103:9-104:70
+	android:value
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:104:13-68
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:103:20-96
+meta-data#com.google.firebase.messaging.default_notification_color
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:108:9-110:50
+	android:resource
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:110:13-47
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:109:13-84
+service#org.chat21.android.instanceid.service.SaveFirebaseInstanceIdService
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:116:9-122:19
+	tools:ignore
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:118:13-43
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:117:13-95
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:119:13-121:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:120:17-80
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:120:25-77
+receiver#org.chat21.android.connectivity.NetworkReceiver
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:124:9-128:20
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:124:19-81
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:125:13-127:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:126:17-79
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:126:25-76
+receiver#org.chat21.android.core.receivers.ShutdownReceiver
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:130:9-135:20
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:130:19-84
+intent-filter#action:name:android.intent.action.ACTION_SHUTDOWN+action:name:android.intent.action.QUICKBOOT_POWEROFF
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:131:13-134:29
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:132:17-80
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:132:25-77
+action#android.intent.action.QUICKBOOT_POWEROFF
+ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:133:17-83
+	android:name
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml:133:25-80
+uses-sdk
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		ADDED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
+		INJECTED from D:\Bravo Mobile\MobileApp\android\chatapp\src\main\AndroidManifest.xml
